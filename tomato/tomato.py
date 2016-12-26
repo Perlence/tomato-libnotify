@@ -61,7 +61,7 @@ class Tomato:
             self.notification.connect('closed', cb, self.notification.primary_action)
 
             delay = DELAYS[self.state]
-            yield from asyncio.sleep(delay / 60 / 5)
+            yield from asyncio.sleep(delay)
 
             self.notification.show()
             self.log()
