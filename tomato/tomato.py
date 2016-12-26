@@ -1,6 +1,5 @@
 import argparse
 import asyncio
-from collections import namedtuple
 from datetime import datetime
 from pkg_resources import resource_filename
 
@@ -110,7 +109,12 @@ def future_callback():
     return future, callback
 
 
-Action = namedtuple('Action', 'notification, action_id, user_data')
+@attr.s
+class Action:
+    notification = attr.ib()
+    action_id = attr.ib()
+    user_data = attr.ib()
+
 
 if __name__ == '__main__':
     main()
