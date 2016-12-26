@@ -17,7 +17,7 @@ setup(
     zip_safe=False,
     entry_points={
         'console_scripts': [
-            'tomato = tomato.tomato:main',
+            'tomato-libnotify = tomato_libnotify.tomato:main',
         ],
     },
     install_requires=[
