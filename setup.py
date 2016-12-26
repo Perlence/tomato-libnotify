@@ -13,6 +13,7 @@ setup(
     url='https://github.com/Perlence/tomato-libnotify',
     download_url='https://github.com/Perlence/tomato-libnotify/archive/master.zip',
     packages=find_packages('.'),
+    include_package_data=True,
     zip_safe=False,
     entry_points={
         'console_scripts': [
