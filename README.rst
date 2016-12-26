@@ -3,6 +3,8 @@ tomato-libnotify
 
 `The Pomodoro Technique® <http://cirillocompany.de/pages/pomodoro-technique/>`_ timer for Linux based on libnotify.
 
+.. image:: http://i.imgur.com/dfhcFJt.png
+.. image:: http://i.imgur.com/OTeoBE0.png
 
 Requirements
 ------------
