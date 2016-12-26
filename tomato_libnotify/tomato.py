@@ -14,7 +14,7 @@ DELAYS = {
     'snooze_break': 5 * 60,
     'snooze_work': 5 * 60,
 }
-ICON = resource_filename('tomato', 'pomodoro.png')
+ICON = resource_filename('tomato_libnotify', 'pomodoro.png')
 
 
 def main():
