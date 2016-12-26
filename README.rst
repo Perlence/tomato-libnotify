@@ -17,4 +17,4 @@ Installation
 
 .. code-block:: sh
 
-    pip install 'git+https://github.com/Perlence/tomato-libnotify#egg=tomato-libnotify'
+    pip3 install 'git+https://github.com/Perlence/tomato-libnotify#egg=tomato-libnotify'
