@@ -29,5 +29,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ====
 
-Tomato `icon <https://thenounproject.com/term/tomato/15790>`_ is created by
-José Campos from the Noun Project and is distributed under CC BY 3.0 US.
+`Tomato <https://thenounproject.com/term/tomato/15790>`_ icon is created by
+`José Campos <https://thenounproject.com/jcampos>`_ from the Noun Project and
+is licensed under `CC BY 3.0 US
+<https://creativecommons.org/licenses/by/3.0/us/>`_.
